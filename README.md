@@ -9,7 +9,7 @@ Autor: Marcos Beck
 5. [Executar](https://github.com/Marcos-Beck/Empresas_Unicornios/blob/main/README.md#executar-)
 
 ## Sobre a Análise 🔍
-O objetivo da análise é explorar os dados de 2021 das empresas unicórnio globais, fazendo o tratamento dos dados e criando visualizações necessárias para formação de insights importantes. 
+O objetivo da análise é explorar os dados de 2007 á 2021 das empresas unicórnio globais, fazendo o tratamento dos dados e criando visualizações necessárias para formação de insights importantes. 
 
 ## Dados 🎲
 Os dados mais recentes sobre essas startups é armazenado na [CBinsights](https://www.cbinsights.com/research-unicorn-companies) com informações de todo o período até atualmente, mas nesse projeto utilizamos uma versão que pode ser encontrada gratuitamente como [Kaggle](https://www.kaggle.com/)
