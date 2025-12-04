@@ -2,10 +2,11 @@
 Autor: Marcos Beck
 
 # Índice
-1. [Sobre a Análise](
-2. [Dados](
-3. [Etapas](
-4. [Tecnologias e Ferramentas](
+1. [Sobre a Análise](https://github.com/Marcos-Beck/Empresas_Unicornios/blob/main/README.md#sobre-a-an%C3%A1lise-)
+2. [Dados](https://github.com/Marcos-Beck/Empresas_Unicornios/blob/main/README.md#dados-)
+3. [Etapas](https://github.com/Marcos-Beck/Empresas_Unicornios/blob/main/README.md#etapas-)
+4. [Tecnologias e Ferramentas](https://github.com/Marcos-Beck/Empresas_Unicornios/blob/main/README.md#tecnologias-e-ferramentas-%EF%B8%8F)
+5. [Executar](https://github.com/Marcos-Beck/Empresas_Unicornios/blob/main/README.md#executar-)
 
 ## Sobre a Análise 🔍
 O objetivo da análise é explorar os dados de 2021 das empresas unicórnio globais, fazendo o tratamento dos dados e criando visualizações necessárias para formação de insights importantes. 
